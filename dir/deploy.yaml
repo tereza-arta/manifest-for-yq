@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: cnt
-          image: terezabisharyan/kubia:v1.0.2
+          image: BlaBla
           ports:
             - containerPort: 8080
