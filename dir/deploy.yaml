@@ -15,7 +15,7 @@ spec:
         app: some
     spec:
       containers:
-      - name: cnt
-        image: terezabisharyan/kubia:v1.0.2
-        ports:
-        - containerPort: 8080
+        - name: cnt
+          image: terezabisharyan/kubia:v1.0.2
+          ports:
+            - containerPort: 8080
