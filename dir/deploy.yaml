@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: cnt
-          image: terezabisharyan/kubia:29f179c
+          image: terezabisharyan/kubia:a4a93d9
           ports:
             - containerPort: 8080
